@@ -1,0 +1,1 @@
+print(0*int(input()) + ((lambda μ: max([max([(σ - ξ)**2 + (υ - κ)**2] for ξ, κ in μ) for σ, υ in μ]))(zip(list(map(int, input().split())), list(map(int, input().split())))))[0])

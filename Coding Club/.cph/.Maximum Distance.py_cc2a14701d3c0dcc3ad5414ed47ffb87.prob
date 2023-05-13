@@ -1,0 +1,1 @@
+{"name":"Local: Maximum Distance","url":"c:\\Programminig\\NZOI\\NZOI\\Coding Club\\Maximum Distance.py","tests":[{"id":1679457865201,"input":"3\n321 -15 -525\n404 373 990","output":"1059112"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Programminig\\NZOI\\NZOI\\Coding Club\\Maximum Distance.py","group":"local","local":true}
