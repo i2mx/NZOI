@@ -1,0 +1,1 @@
+{"name":"Local: G","url":"c:\\Users\\oday128\\Prost\\G.py","tests":[{"id":1692413835144,"input":"RO2E\nBD2F\nBO3F\nGO3F\nGD2S\nRO3F\nRS2F\nRO1E\nRD3S\nGO1S\nBO2S\nBO2E","output":"1 3 10\n3 4 6\n4 8 11\n5 7 12\n6 10 12\n7 8 9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\oday128\\Prost\\G.py","group":"local","local":true}

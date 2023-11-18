@@ -1,0 +1,1 @@
+{"name":"Local: E","url":"c:\\Users\\oday128\\Prost\\E.py","tests":[{"id":1692412285055,"input":"S10(TR)3SL","output":""},{"id":1692412608758,"input":"S3(TR)3SL","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\oday128\\Prost\\E.py","group":"local","local":true}

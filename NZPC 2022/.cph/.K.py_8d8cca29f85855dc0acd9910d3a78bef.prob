@@ -1,0 +1,1 @@
+{"name":"Local: K","url":"c:\\Programminig\\NZOI\\NZOI\\NZPC 2022\\K.py","tests":[{"id":1691909108295,"input":"3 3\n1 3\n1 2\n2 3","output":"0"},{"id":1691909110363,"input":"7 8\n1 2\n1 3\n2 4\n3 4\n4 5\n4 6\n5 7\n6 7","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Programminig\\NZOI\\NZOI\\NZPC 2022\\K.py","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: J","url":"c:\\Users\\oday128\\Prost\\J.py","tests":[{"id":1692419998896,"input":"0 0 10000 1000 2\n0 200 5000 200 7000 200 -1 -1\n2000 600 5000 600 10000 600 -1 -1","output":"21"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\oday128\\Prost\\J.py","group":"local","local":true}
