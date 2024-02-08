@@ -1,0 +1,1 @@
+{"name":"Local: Problem C","url":"c:\\Programminig\\NZOI\\NZOI\\NZIC 2021 Round 1\\Problem C.cpp","tests":[{"id":1702280450656,"input":"10\nhearts","output":"4"},{"id":1702280457198,"input":"K\ndiamonds","output":"14"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Programminig\\NZOI\\NZOI\\NZIC 2021 Round 1\\Problem C.cpp","group":"local","local":true}

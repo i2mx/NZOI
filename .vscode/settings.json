@@ -1,6 +1,24 @@
 {
   "python.formatting.provider": "autopep8",
   "files.associations": {
-    "xiosbase": "cpp"
-  }
+    "*.fs": "fsharp",
+    "xiosbase": "cpp",
+    "random": "cpp",
+    "complex": "cpp",
+    "string": "cpp",
+    "iostream": "cpp",
+    "*.tcc": "cpp",
+    "unordered_map": "cpp",
+    "unordered_set": "cpp",
+    "array": "cpp",
+    "deque": "cpp",
+    "forward_list": "cpp",
+    "list": "cpp",
+    "vector": "cpp",
+    "initializer_list": "cpp",
+    "regex": "cpp",
+    "valarray": "cpp",
+    "numeric": "cpp",
+    "cmath": "cpp"
+  },
 }
