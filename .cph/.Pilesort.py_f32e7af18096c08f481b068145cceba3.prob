@@ -1,0 +1,1 @@
+{"name":"Local: Pilesort","url":"c:\\Programminig\\NZOI\\NZOI\\Pilesort.py","tests":[{"id":1740136550428,"input":"6\n1 2 6 4 5 3","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Programminig\\NZOI\\NZOI\\Pilesort.py","group":"local","local":true}

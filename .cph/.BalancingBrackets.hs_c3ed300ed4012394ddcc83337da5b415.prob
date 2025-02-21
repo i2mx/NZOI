@@ -1,0 +1,1 @@
+{"name":"Local: BalancingBrackets","url":"c:\\Programminig\\NZOI\\NZOI\\BalancingBrackets.hs","tests":[{"id":1738931157842,"input":"10\n(Hello[])a","output":"10\n{Error!}[1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Programminig\\NZOI\\NZOI\\BalancingBrackets.hs","group":"local","local":true}

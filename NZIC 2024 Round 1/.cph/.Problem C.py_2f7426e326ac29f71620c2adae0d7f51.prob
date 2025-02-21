@@ -1,0 +1,1 @@
+{"name":"Local: Problem C","url":"c:\\Programminig\\NZOI\\NZOI\\NZIC 2024 Round 1\\Problem C.py","tests":[{"id":1713001083849,"input":"5\n2 3 6 8 10\n1 3 8 9 11","output":"7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Programminig\\NZOI\\NZOI\\NZIC 2024 Round 1\\Problem C.py","group":"local","local":true}

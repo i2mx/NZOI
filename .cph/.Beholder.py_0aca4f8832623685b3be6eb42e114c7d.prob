@@ -1,0 +1,1 @@
+{"name":"Local: Beholder","url":"c:\\Programminig\\NZOI\\NZOI\\Beholder.py","tests":[{"id":1740128576144,"input":"3 10","output":"YES"},{"id":1740128614136,"input":"1 0","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Programminig\\NZOI\\NZOI\\Beholder.py","group":"local","local":true}

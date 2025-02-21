@@ -1,0 +1,1 @@
+print(*sorted([input()for _ in[0]*int(input())],key=lambda x:x.split()[::-1]),sep="\n")

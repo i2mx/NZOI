@@ -2,6 +2,7 @@
   "python.formatting.provider": "autopep8",
   "files.associations": {
     "*.fs": "fsharp",
+    ".fantomasignore": "ignore",
     "xiosbase": "cpp",
     "random": "cpp",
     "complex": "cpp",
@@ -19,6 +20,16 @@
     "regex": "cpp",
     "valarray": "cpp",
     "numeric": "cpp",
-    "cmath": "cpp"
+    "cmath": "cpp",
+    "tuple": "cpp",
+    "cstdlib": "cpp",
+    "bitset": "cpp",
+    "chrono": "cpp",
+    "algorithm": "cpp",
+    "ostream": "cpp"
   },
+  "cSpell.words": [
+    "fliphelper",
+    "gridify"
+  ],
 }
