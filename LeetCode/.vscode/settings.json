@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.fs": "fsharp",
+    "source_location": "cpp",
+    "stacktrace": "cpp"
+  }
+}
