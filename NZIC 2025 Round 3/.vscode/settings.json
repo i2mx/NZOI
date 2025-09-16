@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "*.fs": "fsharp",
+    "iostream": "cpp",
+    "chrono": "cpp",
+    "span": "cpp"
+  }
+}
